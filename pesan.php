@@ -1,12 +1,11 @@
- <?php
+<?php
 date_default_timezone_set('Asia');
 /**
  *Pembuat : Riskis7
  *YouTube : Riskis7 Channel
  *Team    : Bengkulu Cyber Team
  *Versi   : 0.1
-*/
-Pull messages (for push messages please go to settings of the number) 
+*/Pull messages (for push messages please go to settings of the number) 
 $my_apikey = "Api Key Anda"; 
 $number = "No Yang Anda Pakai"; 
 $type = "IN"; 
