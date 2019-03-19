@@ -5,7 +5,8 @@ date_default_timezone_set('Asia');
  *YouTube : Riskis7 Channel
  *Team    : Bengkulu Cyber Team
  *Versi   : 0.1
-*/Send Message 
+*/
+//Send Message 
 $my_apikey = "API Key Anda"; 
 $destination = "No Tujuan"; 
 $message = "[MESSAGE TO SEND]"; 
